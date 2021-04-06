@@ -4,7 +4,7 @@
 <!-- Hoizontal line --> 
 ___
 <!-- Image --> 
-![Decoder Ring Webpage Preview](/decoder-ring-webpreview.PNG?raw=true "App Display")
+![Decoder Ring Webpage Preview](/decoder-ring-web-preview.PNG?raw=true "App Display")
 <!-- Horizontal line -->
 <!-- UL -->
 ### The Decoder Ring includes the following functionality: 
