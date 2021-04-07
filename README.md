@@ -13,8 +13,7 @@ ___
 * Decryption of messages encoded using the Substitution Cipher
 <!-- OL -->
 ### Tech Stack: 
-1. JavaScript ES6
-1. Advanced Algorithms 
+1. JavaScript ES6 
 1. HTML5 
 1. CSS3 
  
