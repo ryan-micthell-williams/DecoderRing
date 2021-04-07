@@ -1,6 +1,6 @@
 <!-- Heading --> 
 # Decoder Ring
-## This app is designed to decode encrypted messages that utilize the Caesar Shift, Polybius Square or the Substitution Cipher. 
+## This app is designed to decode encrypted messages that utilize the Caesar Shift, Polybius Square or Substitution Cipher. 
 <!-- Hoizontal line --> 
 ___
 <!-- Image --> 
